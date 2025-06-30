@@ -1,5 +1,5 @@
-# Week-1
-Week 1 Project Submission
+# Week-2
+Week 2 Project Submission
 # E-Waste Image Classification
 
 This project uses deep learning to classify e-waste into 10 categories.
@@ -9,3 +9,4 @@ This project uses deep learning to classify e-waste into 10 categories.
 - `notebooks/`: Jupyter notebooks for EDA and experiments
 - `models/`: Trained model files
 - `scripts/`: Preprocessing and training scripts
+- Added Confusion Matrix(Week-2)
